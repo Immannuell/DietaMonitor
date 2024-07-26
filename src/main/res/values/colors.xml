@@ -1,0 +1,11 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <!-- Outras cores já existentes -->
+    <color name="button_background">#FF5722</color> <!-- Cor de fundo do botão -->
+    <color name="button_text_color">#FFFFFF</color> <!-- Cor do texto do botão -->
+    <color name="teal_700">#009688</color>
+    <color name="black">#000000</color>
+
+</resources>
